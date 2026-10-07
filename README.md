@@ -1,102 +1,57 @@
-# Awesome-Electronic-Data-Interchange-Edi-Platform
-
-# Awesome-Electronic-Data-Interchange-Edi-Platform 📄 🔄
-
-
+# Awesome-Electronic-Data-Interchange-Edi-Platform 📄 🔄 ⚡
 
 <p align="center">
-
   <img src="assets/banner.svg" alt="Awesome Electronic Data Interchange EDI Platform Banner" width="100%">
-
 </p>
-
-
 
 <p align="center">
-
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
-
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-
   <a href="https://github.com/ishandutta2007/Awesome-Electronic-Data-Interchange-Edi-Platform"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Electronic-Data-Interchange-Edi-Platform?style=social" alt="GitHub_Stars"/></a>
-
   <a href="https://github.com/ishandutta2007/Awesome-Electronic-Data-Interchange-Edi-Platform/fork"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Electronic-Data-Interchange-Edi-Platform?style=social" alt="GitHub Forks"/></a>
-
   <a href="https://github.com/ishandutta2007/Awesome-Electronic-Data-Interchange-Edi-Platform/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Electronic-Data-Interchange-Edi-Platform?color=blue" alt="License"/></a>
-
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
-
 </p>
-
-
 
 ---
 
+## 🌟 Top Electronic Data Interchange (EDI) Platform Ecosystem 🚀
 
+**Curated List of Commercial EDI Platforms, API Integrations & Open-Source EDI Translator Tools** 📦  
 
-## 🌟 Top Electronic Data Interchange (EDI) Platform Ecosystem
-
-
-
-**Curated List of Commercial EDI Platforms & Open-Source EDI Translator Tools**  
-
-*Focused on X12/EDIFACT Translation, AS2/SFTP Transport, Trading Partner Onboarding, ERP Integration & Self-Hosted EDI Processing*
-
-
+*Focused on X12/EDIFACT Translation, AS2/SFTP Secure Transport, Trading Partner Onboarding, ERP Integration & Self-Hosted EDI Processing* 🌐
 
 **Last updated: October 2026** 📅
 
+---
 
+### 📌 Overview & SEO Summary 🔍
+
+Welcome to the ultimate curated directory of **electronic data interchange platforms**, **open-source EDI translators**, and **B2B integration frameworks**. Whether you are looking for enterprise-grade commercial solutions (such as *SPS Commerce*, *TrueCommerce*, and *Orderful*), or self-hostable open-source alternatives (like *Bots EDI Translator*, *Stupidedi*, and *EdiEngine*), this list covers category leaders, partner onboarding, and privacy-respecting EDI processing. 🛠️
+
+**Key Market Context:** 📊
+- **Bots EDI Translator** is the **leading open-source EDI translator**, used by **700+ organizations** to process **hundreds of thousands of EDI messages per month**. 🔄
+- **AWS B2B Data Interchange** provides **pay-as-you-go EDI transformation** at cloud scale, enabling X12 EDI to JSON/XML conversion with managed trading partner onboarding. ☁️
+- **Cleo WebEDI Compliance Edition** starts at **$99/month** with **3 unique users**, while **Orderful Web EDI** starts at **$189/month per trading partner**. 💳
 
 ---
 
-
-
-### 📌 Overview & SEO Summary
-
-Welcome to the ultimate curated directory of **electronic data interchange platforms**, **open-source EDI translators**, and **B2B integration frameworks**. Whether you are looking for enterprise-grade commercial solutions (such as *SPS Commerce*, *TrueCommerce*, and *Orderful*), or self-hostable open-source alternatives (like *Bots EDI Translator* and *EdiWeave*), this list covers category leaders, partner onboarding, and privacy-respecting EDI processing.
-
-
-
-**Key Market Context:**
-
-- **Bots EDI Translator** is the **leading open-source EDI translator**, used by **700+ organizations** to process **hundreds of thousands of EDI messages per month**.
-
-- **AWS B2B Data Interchange** provides **pay-as-you-go EDI transformation** at cloud scale, enabling X12 EDI to JSON/XML conversion with managed trading partner onboarding.
-
-- **Cleo WebEDI Compliance Edition** starts at **$99/month** with **3 unique users**, while **Orderful Web EDI** starts at **$189/month per trading partner**.
-
-
-
----
-
-
-
-## 📑 Table of Contents
+## 📑 Table of Contents 📜
 
 - [🏢 SaaS & Commercial Platforms](#-saas--commercial-platforms)
-
 - [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
-
 - [🛠️ How to Contribute](#%EF%B8%8F-how-to-contribute)
-
 - [📊 Star History](#-star-history)
-
 - [🤝 Support & Sponsorship](#-support--sponsorship)
-
 - [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
-
-
 
 ---
 
+## 🏢 SaaS / Commercial Platforms 💼
 
+**Market Analysis:** The global Electronic Data Interchange (EDI) market is estimated at **$41.0 Billion to $42.7 Billion** (with the core EDI software segment valued at **$2.4 Billion - $3.1 Billion**, growing at a 9.5% - 12.3% CAGR). The sector is **moderately fragmented**, bridging legacy hyperscalers/enterprises and specialized modern API-first EDI providers. 📈
 
-## 🏢 SaaS / Commercial Platforms
-
-**Market Analysis:** The global Electronic Data Interchange (EDI) market is estimated at **$41.0 Billion to $42.7 Billion** (with the core EDI software segment valued at **$2.4 Billion - $3.1 Billion**, growing at a 9.5% - 12.3% CAGR). The sector is **moderately fragmented**, bridging legacy hyperscalers/enterprises and specialized modern API-first EDI providers.
-
-The EDI platform market spans **hyperscaler-native EDI services** (AWS B2B Data Interchange) that provide **managed EDI transformation with pay-as-you-go pricing**, **full-service EDI providers** (SPS Commerce, TrueCommerce, Cleo) that handle **trading partner onboarding and compliance**, and **API-first modern EDI platforms** (Orderful, Stedi) that offer **developer-friendly APIs for EDI integration**. **Cleo WebEDI** starts at **$99/month** with **3 unique users**, **2,200+ prebuilt trading partner connections**, and **no VAN traffic charges**. **Orderful Web EDI** charges **$189/month per trading partner** with **100% EDI compliance**, **UCC 128 labels**, and **24/7 EDI support**. **Transalis** offers **flat monthly subscription with no per-message metering**, **no VAN traffic charges**, and **thousands of partner maps free to use**. **Boomi Pay-As-You-Go** starts at **$99/month** with a **flat rate of $0.05 per Boomi Message**.
+The EDI platform market spans **hyperscaler-native EDI services** (AWS B2B Data Interchange) that provide **managed EDI transformation with pay-as-you-go pricing**, **full-service EDI providers** (SPS Commerce, TrueCommerce, Cleo) that handle **trading partner onboarding and compliance**, and **API-first modern EDI platforms** (Orderful, Stedi) that offer **developer-friendly APIs for EDI integration**. **Cleo WebEDI** starts at **$99/month** with **3 unique users**, **2,200+ prebuilt trading partner connections**, and **no VAN traffic charges**. **Orderful Web EDI** charges **$189/month per trading partner** with **100% EDI compliance**, **UCC 128 labels**, and **24/7 EDI support**. **Transalis** offers **flat monthly subscription with no per-message metering**, **no VAN traffic charges**, and **thousands of partner maps free to use**. **Boomi Pay-As-You-Go** starts at **$99/month** with a **flat rate of $0.05 per Boomi Message**. ⚡
 
 | SaaS / Commercial Platform | Company / Owner | Market Size / Valuation / Scale | Standard Edition Starting Price | Free Tier / Free Trial Limits | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -111,164 +66,92 @@ The EDI platform market spans **hyperscaler-native EDI services** (AWS B2B Data 
 | **[Transalis](https://www.transalis.com/)** 🌐 | Transalis | Private (~$10M-$20M Valuation) | **£41.25/month** (~$53/month starting) | **30-day free demo account** | **Transparent EDI pricing** — **No VAN traffic charges, no character-count billing, no peak-season surcharges**. **Thousands of partner maps free to use** . **Flat monthly subscription with unlimited message volume** . |
 | **[Babelway](https://www.babelway.com/)** 🔶 | Babelway | Private (~$5M-$10M Valuation) | **$0.01/month** (Basic starter rate per TrustRadius) | **30-day free trial** | **Cloud EDI and B2B integration** — **No setup fee** . **Modern web-based EDI platform** . |
 
-
-
 ---
 
-
-
-## 🔓 Open-Source GitHub Projects
-
-
+## 🔓 Open-Source GitHub Projects 💻
 
 *Sorted by GitHub_Stars_Count (Descending)* 🌟
 
+- **[Bots EDI Translator](https://github.com/bots-edi/bots)** [![Stars](https://img.shields.io/github/stars/bots-edi/bots?style=social&color=white)](https://github.com/bots-edi/bots/stargazers) 🔄  
+  **The leading open-source EDI translator**, GPL-3.0 licensed. **Used by 700+ organizations** to translate **thousands of electronic documents every day**. **Any-to-any data format** — EDIFACT, X12, XML, JSON, SAP idoc, CSV, and fixed-width flat files. **Ready EDI definitions** for **120+ EDIFACT D96A documents** and popular X12 documents. **Simple data mapping with Python scripts**. **Web console for configuration and supervision**.
 
+- **[Stupidedi](https://github.com/stedi/stupidedi)** [![Stars](https://img.shields.io/github/stars/stedi/stupidedi?style=social&color=white)](https://github.com/stedi/stupidedi/stargazers) 💎  
+  **Ruby library for parsing, generating, validating, and manipulating ASC X12 EDI documents**, MIT licensed. **Known as jQuery for EDI**. Flexible DSL for X12 grammars, element validation, and transaction set manipulation.
 
-- **[Bots EDI Translator](https://github.com/bots-edi/bots)** [![Stars](https://img.shields.io/github/stars/bots-edi/bots?style=social&color=white)](https://github.com/bots-edi/bots/stargazers)  
+- **[EdiWeave](https://github.com/EdiFabric/EdiWeave)** [![Stars](https://img.shields.io/github/stars/EdiFabric/EdiWeave?style=social&color=white)](https://github.com/EdiFabric/EdiWeave/stargazers) ⚙️  
+  **Open-source multi-platform EDI framework for .NET**, Apache-2.0 licensed. **Parse and create X12, HIPAA, EDIFACT, EANCOM, VDA, and PNRGOV documents**. **A hard-fork of EdiFabric**. The most comprehensive open-source .NET EDI library.
 
-  **The leading open-source EDI translator**, GPL-3.0 licensed. **Used by 700+ organizations** to translate **thousands of electronic documents every day**. **Any-to-any data format** — EDIFACT, X12, XML, JSON, SAP idoc, CSV, and fixed-width flat files . **Ready EDI definitions** for **120+ EDIFACT D96A documents** and popular X12 documents . **Simple data mapping with Python scripts** . **Web console for configuration and supervision** . **Built-in EDIFACT/X12 functional acknowledgments (CONTRL, 997)** . **Transport via (S)FTP, FTPS, POP3(S), IMAP(S), SMTP(S), HTTP(S), files, and XML-RPC** . **Cross-platform** — Windows, Linux, OSX, and Unix variants . **The definitive open-source EDI translator** . 🔄
+- **[EdiEngine](https://github.com/olmelabs/EdiEngine)** [![Stars](https://img.shields.io/github/stars/olmelabs/EdiEngine?style=social&color=white)](https://github.com/olmelabs/EdiEngine/stargazers) 🚀  
+  **Simple .NET EDI library for parsing, validating, and generating X12 documents**, MIT licensed. Supports EDI to JSON and XML conversions with strongly-typed C# models.
 
+- **[EdiReader](https://github.com/EdiFabric/EdiReader)** [![Stars](https://img.shields.io/github/stars/EdiFabric/EdiReader?style=social&color=white)](https://github.com/EdiFabric/EdiReader/stargazers) ☕  
+  **Flexible and lightweight EDI parser written in pure Java**, Apache-2.0 licensed. Handled millions of transactions across platforms and services. Used in BerryWave EDI API and BerryWave Python EDI SDK.
 
+- **[StAEDI](https://github.com/xlate/staedi)** [![Stars](https://img.shields.io/github/stars/xlate/staedi?style=social&color=white)](https://github.com/xlate/staedi/stargazers) ⚡  
+  **Streaming API for EDI in Java (StAX for EDI)**, Apache-2.0 licensed. Fast streaming parser, generator, and validator for EDIFACT, X12, and custom EDI standards.
 
-- **[EdiWeave](https://github.com/EdiFabric/EdiWeave)** [![Stars](https://img.shields.io/github/stars/EdiFabric/EdiWeave?style=social&color=white)](https://github.com/EdiFabric/EdiWeave/stargazers)  
+- **[smooks-edifact](https://github.com/smooks/smooks-edifact)** [![Stars](https://img.shields.io/github/stars/smooks/smooks-edifact?style=social&color=white)](https://github.com/smooks/smooks-edifact/stargazers) 🔧  
+  **EDIFACT parsing and binding for Smooks**, Apache-2.0 licensed. Java-based EDIFACT parser operating within the Smooks data integration framework.
 
-  **Open-source multi-platform EDI framework for .NET**, Apache-2.0 licensed. **Parse and create X12, HIPAA, EDIFACT, EANCOM, VDA, and PNRGOV documents**. **A hard-fork of the now closed-source EdiFabric** . **The most comprehensive open-source .NET EDI library** . ⚙️
+- **[edifact-generator](https://github.com/php-edifact/edifact-generator)** [![Stars](https://img.shields.io/github/stars/php-edifact/edifact-generator?style=social&color=white)](https://github.com/php-edifact/edifact-generator/stargazers) 🐘  
+  **Formatter for EDI messages in PHP**, GPL-3.0 licensed. Generate EDIFACT messages from structured data arrays cleanly.
 
+- **[edifact-parser](https://github.com/Chemaclass/edifact-parser)** [![Stars](https://img.shields.io/github/stars/Chemaclass/edifact-parser?style=social&color=white)](https://github.com/Chemaclass/edifact-parser/stargazers) 🎯  
+  **A parser for UN/EDIFACT files in PHP**, MIT licensed. Parse EDIFACT messages into structured PHP arrays effortlessly.
 
+- **[java-edilib](https://github.com/edilib/java-edilib)** [![Stars](https://img.shields.io/github/stars/edilib/java-edilib?style=social&color=white)](https://github.com/edilib/java-edilib/stargazers) ☕  
+  **EDIFACT reader written in Java**, Apache-2.0 licensed. Lightweight EDIFACT parsing for Java applications.
 
-- **[EdiReader](https://github.com/EdiFabric/EdiReader)** [![Stars](https://img.shields.io/github/stars/EdiFabric/EdiReader?style=social&color=white)](https://github.com/EdiFabric/EdiReader/stargazers)  
+- **[go-edilib](https://github.com/edilib/go-edilib)** [![Stars](https://img.shields.io/github/stars/edilib/go-edilib?style=social&color=white)](https://github.com/edilib/go-edilib/stargazers) 🐹  
+  **EDIFACT reader written in Go**, Apache-2.0 licensed. High-performance EDIFACT parsing for modern Go applications.
 
-  **Flexible and lightweight EDI parser written in pure Java**, Apache-2.0 licensed. **Handled millions of transactions in a wide variety of products, services, industries, platforms, and custom integrations**. **Used in BerryWave EDI API and BerryWave Python EDI SDK** . **The most production-proven open-source Java EDI parser** . ☕
+- **[edi-schemas](https://github.com/adamkasztenny/edi-schemas)** [![Stars](https://img.shields.io/github/stars/adamkasztenny/edi-schemas?style=social&color=white)](https://github.com/adamkasztenny/edi-schemas/stargazers) 📋  
+  **Schemas for X12 and EDIFACT as JSON**, open-source. Standard JSON schemas for EDI document structure and validation.
 
+- **[Open EDI](https://github.com/freight-trust/open-edi)** [![Stars](https://img.shields.io/github/stars/freight-trust/open-edi?style=social&color=white)](https://github.com/freight-trust/open-edi/stargazers) 🔌  
+  **OAS3 EDI API for Translation and Validation**, Apache-2.0 licensed. Transactional B2B integration service with attestation and non-repudiation.
 
-
-- **[smooks-edifact](https://github.com/smooks/smooks-edifact)** [![Stars](https://img.shields.io/github/stars/smooks/smooks-edifact?style=social&color=white)](https://github.com/smooks/smooks-edifact/stargazers)  
-
-  **EDIFACT parsing and binding for Smooks**, Apache-2.0 licensed. **Java-based EDIFACT parser** . **Part of the Smooks data integration framework** . 🔧
-
-
-
-- **[edifact-generator](https://github.com/php-edifact/edifact-generator)** [![Stars](https://img.shields.io/github/stars/php-edifact/edifact-generator?style=social&color=white)](https://github.com/php-edifact/edifact-generator/stargazers)  
-
-  **Formatter for EDI messages in PHP**, GPL-3.0 licensed. **Generate EDIFACT messages from structured data** . **The most accessible PHP EDI generator** . 🐘
-
-
-
-- **[edifact-parser](https://github.com/Chemaclass/edifact-parser)** [![Stars](https://img.shields.io/github/stars/Chemaclass/edifact-parser?style=social&color=white)](https://github.com/Chemaclass/edifact-parser/stargazers)  
-
-  **A parser for UN/EDIFACT files in PHP**, MIT licensed. **Parse EDIFACT messages into structured arrays** . **Simple and lightweight** . 🎯
-
-
-
-- **[java-edilib](https://github.com/edilib/java-edilib)** [![Stars](https://img.shields.io/github/stars/edilib/java-edilib?style=social&color=white)](https://github.com/edilib/java-edilib/stargazers)  
-
-  **EDIFACT reader written in Java**, Apache-2.0 licensed. **Lightweight EDIFACT parsing for Java applications** . **Part of the edilib suite** . ☕
-
-
-
-- **[go-edilib](https://github.com/edilib/go-edilib)** [![Stars](https://img.shields.io/github/stars/edilib/go-edilib?style=social&color=white)](https://github.com/edilib/go-edilib/stargazers)  
-
-  **EDIFACT reader written in Go**, Apache-2.0 licensed. **High-performance EDIFACT parsing for Go applications** . **The most modern open-source EDI parser** . 🚀
-
-
-
-- **[edi-schemas](https://github.com/adamkasztenny/edi-schemas)** [![Stars](https://img.shields.io/github/stars/adamkasztenny/edi-schemas?style=social&color=white)](https://github.com/adamkasztenny/edi-schemas/stargazers)  
-
-  **Schemas for X12 and EDIFACT as JSON**, open-source. **JSON schemas for EDI validation** . **The standard for EDI schema definition** . 📋
-
-
-
-- **[Open EDI](https://github.com/freight-trust/open-edi)** [![Stars](https://img.shields.io/github/stars/freight-trust/open-edi?style=social&color=white)](https://github.com/freight-trust/open-edi/stargazers)  
-
-  **OAS3 EDI API for Translation and Validation**, Apache-2.0 licensed. **Transactional service with attestation and non-repudiation** . **Modern API-first EDI platform** . 🔌
-
-
-
-- **[Delightful EDIFACT](https://github.com/sweet-delights/delightful-edifact)** [![Stars](https://img.shields.io/github/stars/sweet-delights/delightful-edifact?style=social&color=white)](https://github.com/sweet-delights/delightful-edifact/stargazers)  
-
-  **EDIFACT data binding library and code generator**, open-source. **Generate type-safe EDIFACT bindings** . **Code generation for EDI schemas** . 🍬
-
-
+- **[Delightful EDIFACT](https://github.com/sweet-delights/delightful-edifact)** [![Stars](https://img.shields.io/github/stars/sweet-delights/delightful-edifact?style=social&color=white)](https://github.com/sweet-delights/delightful-edifact/stargazers) 🍬  
+  **EDIFACT data binding library and code generator**, open-source. Generate type-safe EDIFACT bindings and schemas.
 
 ---
 
-
-
-## 🛠️ How to Contribute
-
-
+## 🛠️ How to Contribute 🤝
 
 Contributions are welcome! Follow these steps to submit new EDI platforms or open-source EDI translator software:
 
-
-
 1. 🍴 **Fork** the repository.
-
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-
 3. 🔗 Include project title, official website/GitHub link, exact Stars_Count, license, and brief description.
-
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
-
-
 ---
 
-
-
-## 📊 Star History
-
-
-
-[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Electronic-Data-Interchange-Edi-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Electronic-Data-Interchange-Edi-Platform&type=date&legend=top-left)
-
-
-
----
-
-
-
-## 🤝 Support & Sponsorship
-
-
+## 🤝 Support & Sponsorship 💖
 
 If you find this EDI platform repository useful, please consider supporting the project:
 
-
-
 - ⭐ **Star** this repository to increase visibility!
-
-- 🔀 **Fork** and share with fellow integration engineers, supply chain professionals, and open-source advocates.
-
+- 🔀 **Fork** and share with fellow integration engineers, supply chain professionals, and open-source EDI advocates.
 - ☕ **Sponsor & Buy Me a Coffee**: Support ongoing open-source curation via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
 
+---
 
+## 📊 Star History ⭐
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Electronic-Data-Interchange-Edi-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Electronic-Data-Interchange-Edi-Platform&type=date&legend=top-left)
 
 ---
 
-
-
-## ⚠️ Disclaimer
-
-
+## ⚠️ Disclaimer ℹ️
 
 - This is a **community-curated** list — not exhaustive and not an endorsement. ℹ️
-
 - **Cleo WebEDI starts at $99/month** with **3 unique users** and **no KC or 997 fees**. **Orderful Web EDI charges $189/month per trading partner** with **100% EDI compliance**. **Transalis offers flat monthly subscription with no per-message metering or VAN traffic charges**.
-
 - **Bots EDI Translator is the leading open-source EDI translator** — used by **700+ organizations** processing **hundreds of thousands of messages per month**. **EdiWeave provides .NET EDI parsing** for X12, EDIFACT, EANCOM, and more.
-
-- **Open-source EDI tools are not turnkey** — **Bots requires Python/Django deployment** with **grammar and mapping configuration**. **EdiWeave requires .NET development** . **Always validate EDI document validation and partner-specific compliance with a proof-of-concept** before production deployment . 📄
-
-
+- **Open-source EDI tools are not turnkey** — **Bots requires Python/Django deployment** with **grammar and mapping configuration**. **EdiWeave requires .NET development**. **Always validate EDI document validation and partner-specific compliance with a proof-of-concept** before production deployment. 📄
 
 ---
 
-
-
 <p align="center">
-
   <b>Made with ❤️ for integration engineers, supply chain professionals, and open-source EDI advocates.</b>
-
 </p>
