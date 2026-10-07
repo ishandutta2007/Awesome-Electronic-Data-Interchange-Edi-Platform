@@ -94,35 +94,22 @@ Welcome to the ultimate curated directory of **electronic data interchange platf
 
 ## 🏢 SaaS / Commercial Platforms
 
-
+**Market Analysis:** The global Electronic Data Interchange (EDI) market is estimated at **$41.0 Billion to $42.7 Billion** (with the core EDI software segment valued at **$2.4 Billion - $3.1 Billion**, growing at a 9.5% - 12.3% CAGR). The sector is **moderately fragmented**, bridging legacy hyperscalers/enterprises and specialized modern API-first EDI providers.
 
 The EDI platform market spans **hyperscaler-native EDI services** (AWS B2B Data Interchange) that provide **managed EDI transformation with pay-as-you-go pricing**, **full-service EDI providers** (SPS Commerce, TrueCommerce, Cleo) that handle **trading partner onboarding and compliance**, and **API-first modern EDI platforms** (Orderful, Stedi) that offer **developer-friendly APIs for EDI integration**. **Cleo WebEDI** starts at **$99/month** with **3 unique users**, **2,200+ prebuilt trading partner connections**, and **no VAN traffic charges**. **Orderful Web EDI** charges **$189/month per trading partner** with **100% EDI compliance**, **UCC 128 labels**, and **24/7 EDI support**. **Transalis** offers **flat monthly subscription with no per-message metering**, **no VAN traffic charges**, and **thousands of partner maps free to use**. **Boomi Pay-As-You-Go** starts at **$99/month** with a **flat rate of $0.05 per Boomi Message**.
 
-
-
-| SaaS / Commercial Platform | Company / Owner | Valuation / Market Cap | Standard Edition Starting Price | Free Tier / Free Trial Limits | Description |
-
+| SaaS / Commercial Platform | Company / Owner | Market Size / Valuation / Scale | Standard Edition Starting Price | Free Tier / Free Trial Limits | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-
-| **[AWS B2B Data Interchange](https://aws.amazon.com/b2b-data-interchange/)** ☁️ | Amazon | ~$2.0 Trillion | **Pay-as-you-go** (per document transformed) | **Free tier: limited** | **AWS-native EDI service** — **Fully managed EDI transformation and generation** at cloud scale. **X12 EDI to JSON/XML conversion** . **Low-code interface for managing trading partner relationships** . **Pay-as-you-go pricing with no upfront commitment** . |
-
-| **[SPS Commerce](https://www.spscommerce.com/)** 🏢 | SPS Commerce | ~$5 Billion | **$20/month** (starting, per Software Advice) | **No free tier**; demo available | **Retail EDI network** — **The largest retail EDI network** with **80,000+ trading partners** . **Full-service onboarding and compliance** . **Retail-focused EDI for suppliers and retailers** . |
-
-| **[TrueCommerce](https://www.truecommerce.com/)** 🔵 | TrueCommerce | Private | **$19.95/month** (starting, per Software Advice) | **No free tier**; demo available | **EDI and supply chain integration** — **End-to-end EDI solutions** for retail, consumer goods, and manufacturing. **71% of users recommend this product** . **Integrated with major ERP systems** . |
-
-| **[Orderful](https://www.orderful.com/)** 🎯 | Orderful | Private | **$99/month** (Labels); **$189/month per trading partner** (Web EDI); **$399/month** (Integrated) | **Free trial available** | **Modern EDI API platform** — **API-first EDI for developers** . **100% EDI compliance with Web EDI** . **Enterprise tier for 20+ trading partners with RBAC, SSO, and managed integration services**. |
-
-| **[Cleo](https://www.cleo.com/)** 🟢 | Cleo | Private | **$99/month** (Startup); **$90.75/month annual**  | **Free trial available** | **WebEDI compliance platform** — **2,200+ prebuilt trading partner connections**. **No KC fees, no 997 fees** . **Integrated plan adds custom mapping, workflow automation, and ERP integration** . |
-
-| **[Boomi EDI](https://boomi.com/)** 🟣 | Boomi | ~$4 Billion | **$99/month** (Pay-As-You-Go); **$0.05/Message** | **Active trial users eligible**  | **Unified integration platform** — **EDI, Integration, Flow, API Management, and Data Hub** in one platform. **Connector capacity tiers with 10M messages per connector** per subscription year. |
-
-| **[Babelway](https://www.babelway.com/)** 🔶 | Babelway | Private | **$0.01/month** (Basic, per TrustRadius) | **Free trial available** | **Cloud EDI and B2B integration** — **No setup fee** . **Modern web-based EDI platform** . |
-
-| **[Stedi](https://www.stedi.com/)** ⚡ | Stedi | Private | **Custom pricing** (per transaction) | **Free tier available** | **EDI API platform** — **Developer-friendly EDI** with **API-first architecture** . **Modern alternative to legacy VANs** . |
-
-| **[MuleSoft Anypoint Partner Manager](https://www.mulesoft.com/)** 🔴 | Salesforce | ~$250 Billion | **Custom enterprise pricing** (includes unlimited sandbox partners + up to 50 production partners) | **Demo available** | **API-led EDI integration** — **Anypoint Partner Manager** for **EDI and API integration** . **Unlimited sandbox partners** and **up to 50 production partners** . **Integrated with MuleSoft Anypoint Platform** . |
-
-| **[Transalis](https://www.transalis.com/)** 🌐 | Transalis | Private | **Custom pricing** (flat monthly subscription) | **No free tier** | **Transparent EDI pricing** — **No VAN traffic charges, no character-count billing, no peak-season surcharges**. **Thousands of partner maps free to use** . **Flat monthly subscription with unlimited message volume** . |
+| **[AWS B2B Data Interchange](https://aws.amazon.com/b2b-data-interchange/)** ☁️ | Amazon | ~$2.0 Trillion Market Cap | **$8/month per active partnership** + **$0.01 per transformation step** | **No free tier**; pay-as-you-go per usage | **AWS-native EDI service** — **Fully managed EDI transformation and generation** at cloud scale. **X12 EDI to JSON/XML conversion** . **Low-code interface for managing trading partner relationships** . **Pay-as-you-go pricing with no upfront commitment** . |
+| **[MuleSoft Anypoint Partner Manager](https://www.mulesoft.com/)** 🔴 | Salesforce | ~$250 Billion Market Cap | **$27,000/year** (starting Anypoint tier) | **30-day free trial** (Anypoint Platform evaluation) | **API-led EDI integration** — **Anypoint Partner Manager** for **EDI and API integration** . **Unlimited sandbox partners** and **up to 50 production partners** . **Integrated with MuleSoft Anypoint Platform** . |
+| **[Boomi EDI](https://boomi.com/)** 🟣 | Boomi | ~$4.0 Billion Valuation | **$99/month** + **$0.05 per Boomi Message** | **30-day free trial** with full platform capabilities | **Unified integration platform** — **EDI, Integration, Flow, API Management, and Data Hub** in one platform. **Connector capacity tiers with 10M messages per connector** per subscription year. |
+| **[SPS Commerce](https://www.spscommerce.com/)** 🏢 | SPS Commerce | ~$2.91 Billion Market Cap | **$20/month** (starting base plan per Software Advice) | **No free tier**; interactive demo available upon request | **Retail EDI network** — **The largest retail EDI network** with **80,000+ trading partners** . **Full-service onboarding and compliance** . **Retail-focused EDI for suppliers and retailers** . |
+| **[TrueCommerce](https://www.truecommerce.com/)** 🔵 | TrueCommerce | ~$700 Million+ Valuation (Private Equity backed) | **$19.95/month** (starting base rate per Software Advice) | **No free tier**; guided demo available upon request | **EDI and supply chain integration** — **End-to-end EDI solutions** for retail, consumer goods, and manufacturing. **71% of users recommend this product** . **Integrated with major ERP systems** . |
+| **[Cleo](https://www.cleo.com/)** 🟢 | Cleo | Private (~$100M+ ARR) | **$99/month** (Startup); **$90.75/month annual** | **14-day free trial** (WebEDI tier) | **WebEDI compliance platform** — **2,200+ prebuilt trading partner connections**. **No KC fees, no 997 fees** . **Integrated plan adds custom mapping, workflow automation, and ERP integration** . |
+| **[Orderful](https://www.orderful.com/)** 🎯 | Orderful | Private (~$30M-$50M Valuation) | **$99/month** (Labels); **$189/month per trading partner** (Web EDI) | **14-day free trial** (Developer Sandbox access) | **Modern EDI API platform** — **API-first EDI for developers** . **100% EDI compliance with Web EDI** . **Enterprise tier for 20+ trading partners with RBAC, SSO, and managed integration services**. |
+| **[Stedi](https://www.stedi.com/)** ⚡ | Stedi | Private (~$20M-$50M Valuation) | **$25 initial balance** (pay-as-you-go volume tiered) | **Always-free Sandbox mode** (unlimited testing & API validation) | **EDI API platform** — **Developer-friendly EDI** with **API-first architecture** . **Modern alternative to legacy VANs** . |
+| **[Transalis](https://www.transalis.com/)** 🌐 | Transalis | Private (~$10M-$20M Valuation) | **£41.25/month** (~$53/month starting) | **30-day free demo account** | **Transparent EDI pricing** — **No VAN traffic charges, no character-count billing, no peak-season surcharges**. **Thousands of partner maps free to use** . **Flat monthly subscription with unlimited message volume** . |
+| **[Babelway](https://www.babelway.com/)** 🔶 | Babelway | Private (~$5M-$10M Valuation) | **$0.01/month** (Basic starter rate per TrustRadius) | **30-day free trial** | **Cloud EDI and B2B integration** — **No setup fee** . **Modern web-based EDI platform** . |
 
 
 
